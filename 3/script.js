@@ -5,6 +5,7 @@
 
 const now = require('performance-now');
 
+// Testing branch
 
 // Start timer
 const start = now();
